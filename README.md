@@ -6,7 +6,12 @@ Vernon (27) / Télétravail - Déplacements OK
 
 06 02 25 13 67 – [sebastien@sevenos.fr](mailto:sebastien@sevenos.fr)  
 [www.sevenos.fr](https://www.sevenos.fr) – LinkedIn : [Sébastien Séveno](https://www.linkedin.com/in/seveno-sebastien/)  
-
+<p align="center">
+  <kbd>06 02 25 13 67</kbd>
+  <kbd>www.sevenos.fr</kbd>
+  <kbd>seveno.sebastien@gmail.com</kbd>
+  <kbd>LinkedIn Seveno Sébastien</kbd>
+</p>
 
 ## PROFIL
 
