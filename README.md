@@ -65,8 +65,6 @@ Privilégier les solutions ouvertes lorsqu'elles apportent davantage de maîtris
 
 ## COMPÉTENCES
 
-La majorité des compétences ont été acquises par l'expérimentation et l'autoformation, au travers de projets personnels menés sur plusieurs années. Cette démarche a développé une forte autonomie technique ainsi qu'une capacité à monter rapidement en compétence sur de nouveaux environnements et technologies.
-
 **Systèmes & Virtualisation**
 
 * Linux (Debian), Windows poste de travail et serveur (bases)
