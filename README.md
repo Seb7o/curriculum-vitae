@@ -9,13 +9,12 @@ LinkedIn : [Sébastien Séveno](https://www.linkedin.com/in/seveno-sebastien/)
 
 ## PROFIL
 
-Conception, exploitation et amélioration continue d'infrastructures, de la couche matérielle jusqu'aux applications.
 
-Curieux de nature, avec une tendance à explorer les sujets techniques en profondeur, depuis le matériel jusqu'aux applications. Cette approche permet de comprendre les interactions entre les différentes couches d'un système, d'anticiper les impacts d'un changement et de concevoir des infrastructures cohérentes, fiables et maintenables.
+Après plusieurs années entre développement backend et support informatique, l'objectif est aujourd'hui de mettre cette expérience transversale et cette passion au service de la conception, de l'automatisation et de l'évolution d'infrastructures modernes.
+
+Curieux de nature, avec une tendance à explorer les sujets techniques en profondeur. Cette approche permet de comprendre les interactions entre les différentes couches d'un système, d'anticiper les impacts d'un changement et de concevoir des infrastructures cohérentes, fiables et maintenables.
 
 La majorité des compétences ont été acquises par l'expérimentation et l'autoformation, au travers de projets personnels menés sur plusieurs années. Cette démarche a développé une forte autonomie technique ainsi qu'une capacité à monter rapidement en compétence sur de nouveaux environnements et technologies.
-
-Après plusieurs années en développement backend, le choix a été fait de revenir vers des fonctions plus proches de l'infrastructure, domaine qui constitue aujourd'hui le principal centre d'intérêt professionnel.
 
 Une attention particulière est portée à l'utilisation efficace des ressources : temps humain, matériel, énergie ou complexité opérationnelle. L'objectif est de rechercher le meilleur compromis plutôt que la solution la plus coûteuse ou la plus complexe.
 
@@ -26,7 +25,7 @@ La double expérience en développement backend et en infrastructure permet de c
 
 ### Automatisation & Fiabilité
 
-L'automatisation est utilisée comme levier de standardisation, de documentation et de réduction des erreurs humaines. L'objectif est de rendre les infrastructures plus fiables, reproductibles et maintenables.
+L'automatisation est utilisée comme levier de standardisation, de documentation et de réduction des erreurs humaines. L'objectif est de rendre les infrastructures plus fiables, reproductibles et maintenables, depuis une source de vérité unique
 
 ### Infrastructure & Hardware
 
@@ -38,14 +37,14 @@ Privilégier les solutions ouvertes lorsqu'elles apportent davantage de maîtris
 
 ## INFRASTRUCTURE PERSONNELLE (HOMELAB)
 
-<table>
+<table border="0">
 <tr>
-<td width="25%">
+<td width="20%">
 
 <img src="photo-rack-principal.jpg" width="100%">
 
 </td>
-<td width="75%">
+<td>
 <p>10 ans de conception et exploitation d’une infrastructure conçue comme un environnement de production miniature, utilisée pour expérimenter, valider et exploiter des architectures de virtualisation, stockage, supervision et automatisation.</p>
 <p>
 <ul>
@@ -82,7 +81,6 @@ Privilégier les solutions ouvertes lorsqu'elles apportent davantage de maîtris
 * Firewall : OPNsense, OpenWRT (routage, segmentation, VPN, NAT)
 * VPN : WireGuard, IPsec
 * SSL : ACME, bonnes notions en cryptographie
-* IPV4 (IPV6 Théorie uniquement)
 
 **Supervision & Exploitation**
 
