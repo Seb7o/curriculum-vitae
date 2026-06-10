@@ -4,7 +4,7 @@ Virtualisation • Stockage • Automatisation
 
 Vernon (27) / Télétravail - Déplacements OK  
 
-[06 02 25 13 67](tel:0602251367) - [sebastien@sevenos.fr](mailto:sebastien@sevenos.fr) - [www.sevenos.fr](https://www.sevenos.fr)  
+<a href="tel:0602251367">06 02 25 13 67</a> - [sebastien@sevenos.fr](mailto:sebastien@sevenos.fr) - [www.sevenos.fr](https://www.sevenos.fr)  
 LinkedIn : [Sébastien Séveno](https://www.linkedin.com/in/seveno-sebastien/)  
 
 ## PROFIL
