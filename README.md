@@ -39,28 +39,29 @@ Privilégier les solutions ouvertes lorsqu'elles apportent davantage de maîtris
 
 ## INFRASTRUCTURE PERSONNELLE (HOMELAB)
 
-10 ans de conception et exploitation d’une infrastructure conçue comme un environnement de production miniature, utilisée pour expérimenter, valider et exploiter des architectures de virtualisation, stockage, supervision et automatisation.
 <table>
 <tr>
-<td width="33%">
+<td width="25%">
 
 <img src="photo-rack-principal.jpg" width="100%">
 
 </td>
-<td width="67%">
-* 2 clusters Proxmox (3 noeuds chacun) Prod & Preprod – HA, Load Balancing
-* Stockage dense (JBOD 96 To) et logique distribuée (cluster stockage ceph)
-* Réseau 10G segmenté (VLAN), routage et firewall OPNsense
-* VPN site-to-site et accès distant sécurisé
-* Load balancing (HAProxy), reverse proxy, gestion certificats (ACME)
-* Supervision (Grafana, alerting) et monitoring des services
-* Documentation des implémentations, corrections et améliorations
-* Sauvegardes locales + offsite
+<td width="75%">
+<p>10 ans de conception et exploitation d’une infrastructure conçue comme un environnement de production miniature, utilisée pour expérimenter, valider et exploiter des architectures de virtualisation, stockage, supervision et automatisation.</p>
+<p>
+<ul>
+<li> 2 clusters Proxmox (3 noeuds chacun) Prod & Preprod – HA, Load Balancing </li>
+<li> Stockage dense (JBOD 96 To) et logique distribuée (cluster stockage ceph) </li>
+<li> Réseau 10G segmenté (VLAN), routage et firewall OPNsense </li>
+<li> VPN site-to-site et accès distant sécurisé </li>
+<li> Load balancing (HAProxy), reverse proxy, gestion certificats (ACME) </li>
+<li> Supervision (Grafana, alerting) et monitoring des services </li>
+<li> Documentation des implémentations, corrections et améliorations </li>
+<li> Sauvegardes locales + offsite </li>
+</ul>
 </td>
 </tr>
 </table>
-
-Approche orientée disponibilité, sécurité, experimentation et amélioration continue
 
 ## COMPÉTENCES
 
