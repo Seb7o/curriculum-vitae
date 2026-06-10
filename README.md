@@ -48,13 +48,15 @@ Privilégier les solutions ouvertes lorsqu'elles apportent davantage de maîtris
 <p>10 ans de conception et exploitation d’une infrastructure conçue comme un environnement de production miniature, utilisée pour expérimenter, valider et exploiter des architectures de virtualisation, stockage, supervision et automatisation.</p>
 <p>
 <ul>
-<li> 2 clusters Proxmox (3 noeuds chacun) Prod & Preprod – HA, Load Balancing </li>
+<li> 2 clusters Proxmox (3 noeuds chacun) Prod & Preprod – HA, Load Balancing, SDN à venir </li>
 <li> Stockage dense (JBOD 96 To) et logique distribuée (cluster stockage ceph) </li>
 <li> Réseau 10G segmenté (VLAN), routage et firewall OPNsense </li>
 <li> VPN site-to-site et accès distant sécurisé </li>
-<li> Load balancing (HAProxy), reverse proxy, gestion certificats (ACME) </li>
+<li> Load balancing (HAProxy), reverse proxy (Caddy, nginx), gestion certificats (ACME Interne) </li>
+<li> Gestion de zone DNS publique & locale </li>
 <li> Supervision (Grafana, alerting) et monitoring des services </li>
 <li> Documentation des implémentations, corrections et améliorations </li>
+<li> Déploiement & configuration par Ansible (Terraform à venir)
 <li> Sauvegardes locales + offsite </li>
 </ul>
 </td>
