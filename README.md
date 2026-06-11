@@ -46,7 +46,6 @@ Privilégier les solutions ouvertes lorsqu'elles apportent davantage de maîtris
 </td>
 <td>
 <p>10 ans de conception et exploitation d’une infrastructure conçue comme un environnement de production miniature, utilisée pour expérimenter, valider et exploiter des architectures de virtualisation, stockage, supervision et automatisation.</p>
-<p>
 <ul>
 <li> 2 clusters Proxmox (3 noeuds chacun) Prod & Preprod – HA</li>
 <li> Stockage dense (JBOD 96 To) et logique distribuée (cluster stockage ceph) </li>
@@ -69,7 +68,6 @@ Privilégier les solutions ouvertes lorsqu'elles apportent davantage de maîtris
 
 * Linux (Debian), Windows poste de travail et serveur (bases)
 * Proxmox (cluster, HA, cloud-init)
-* Load Balancing (HAProxy, Caddy)
 
 **Stockage & Sauvegarde**
 
