@@ -1,11 +1,11 @@
 # **Sébastien Séveno**
 
-# Infrastructure Engineer
-### Virtualization • Storage • Automation • Open Source
+** Infrastructure Engineer  **
+Virtualization • Storage • Automation • Open Source
 
-📍 Vernon, France • Remote • Willing to travel
+Vernon, France • Remote • Willing to travel
 
-📞 +33 6 02 25 13 67 [sebastien@sevenos.fr](mailto:sebastien@sevenos.fr) - [www.sevenos.fr](https://www.sevenos.fr)  
++33 6 02 25 13 67 - [sebastien@sevenos.fr](mailto:sebastien@sevenos.fr) - [www.sevenos.fr](https://www.sevenos.fr)  
 LinkedIn : [Sébastien Séveno](https://www.linkedin.com/in/seveno-sebastien/)  
 
 
