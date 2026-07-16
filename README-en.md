@@ -143,9 +143,9 @@ I particularly enjoy designing reliable platforms, automating repetitive work an
 
 ### IT Support Engineer (Level 2/3) — SPIE
 
-September 2025 – Present
+September 2025 - Present
 
-Production environment – 300 users
+Production environment - 300 users
 
 - Maintaining critical production systems
 - Took ownership of the position after only two weeks of handover
@@ -157,7 +157,7 @@ Production environment – 300 users
 
 ### IT Support Engineer — ArianeGroup
 
-June 2018 – June 2019
+June 2018 - June 2019
 
 - End-user and infrastructure support for a sensitive environment (1,500 users)
 - SCCM deployment and administration
@@ -167,7 +167,7 @@ June 2018 – June 2019
 
 ### Backend Software Engineer
 
-June 2019 – March 2023
+June 2019 - March 2023
 
 - Backend API development
 - Keycloak integration
