@@ -47,7 +47,6 @@ I particularly enjoy designing reliable platforms, automating repetitive work an
 <li> Local and off-site backups over encrypted VPN links </li>
 <li> Architecture documentation and continuous improvements </li>
 </ul>
-**Focus:** high availability, automation, observability, security and long-term maintainability.
 </td>
 </tr>
 </table>
