@@ -34,7 +34,7 @@ I particularly enjoy designing reliable platforms, automating repetitive work an
 </td>
 <td>
 <p>For more than 10 years, I have been designing, operating and continuously improving a production-like infrastructure used to experiment with enterprise technologies, validate architectures and automate deployments.</p>
-
+<ul>
 <li> Two Proxmox clusters (3 nodes each) for Production and Pre-production (HA, Live Migration) </li>
 <li> 96 TB storage infrastructure with distributed Ceph storage </li>
 <li> 10 GbE segmented network (VLANs) with OPNsense firewall and Arista switching </li>
@@ -48,6 +48,7 @@ I particularly enjoy designing reliable platforms, automating repetitive work an
 <li> Infrastructure deployment and configuration automated with Ansible </li>
 <li> Local and off-site backups over encrypted VPN links </li>
 <li> Architecture documentation and continuous improvements </li>
+</ul>
 **Focus:** high availability, automation, observability, security and long-term maintainability.
 </td>
 </tr>
@@ -57,29 +58,59 @@ I particularly enjoy designing reliable platforms, automating repetitive work an
 
 ## TECHNICAL SKILLS
 
-### Infrastructure & Virtualization
+### Infrastructure Engineering
+
+- Infrastructure architecture and design
+- High Availability (HA)
+- Resilience & SPOF mitigation
+- Disaster Recovery (DR)
+- Capacity planning
+- Infrastructure evolution and modernization
+- Long-term maintainability
+- Hardware sizing and component selection
+- Power efficiency & resource optimization
+
+### Infrastructure Platforms
 
 - Linux (Debian)
 - Windows Server & Workstations
 - Proxmox VE (Clusters, HA, Cloud-Init)
-- HAProxy, Caddy, Nginx
+- Docker / Docker Compose
+- Reverse Proxy (HAProxy, Caddy, Nginx)
 
-### Storage
+### Storage & Data Protection
 
-- Ceph Distributed Storage
-- Proxmox Backup Server
+- Distributed storage (Ceph)
 - High-capacity storage architectures
-- Backup and disaster recovery
+- Proxmox Backup Server
+- Backup strategies
+- Off-site backup
+- Disaster Recovery planning
 
-### Networking & Security
+### Networking & Connectivity
 
-- VLANs
-- DHCP (Kea)
-- DNS (Bind9, Unbound) : split-horizon, authoritative, recursive, dDNS (Kea), ACME DNS-01
+- VLAN segmentation
 - Routing & Firewalling (OPNsense, OpenWRT)
 - WireGuard & IPsec VPN
-- ACME / TLS
+- High-speed networking (10 GbE)
+- DHCP (Kea)
+- DNS (Bind9, Unbound)
+  - Authoritative & Recursive DNS
+  - Split-horizon DNS
+  - Dynamic DNS (Kea)
+  - ACME DNS-01
+- TLS / ACME
 - Good understanding of cryptographic principles
+
+### Identity & Security
+
+- Authentik
+- Keycloak
+- LDAP
+- Single Sign-On (SSO)
+- OAuth2
+- OpenID Connect
+- Security best practices
 - Basic penetration testing experience
 
 ### Observability & Operations
@@ -90,44 +121,27 @@ I particularly enjoy designing reliable platforms, automating repetitive work an
 - NetBox
 - Infrastructure documentation
 - Infrastructure as Code
-- Incident investigation and troubleshooting
-
-### Infrastructure Design
-
-- High Availability
-- Disaster Recovery
-- Capacity Planning
-- Infrastructure Architecture
-- Infrastructure Evolution
-
-### Identity Management
-
-- Authentik
-- LDAP
-- Keycloak
-- SSO
-- OAuth
-- OpenID Connect
+- Incident investigation & troubleshooting
+- Root cause analysis
+- Operational monitoring & alerting
 
 ### Automation
 
-- Docker / Docker Compose
 - Python scripting
 - Ansible
 - Terraform
-- Cloud-init
-- PXE deployment
-- Git CI
+- Cloud-Init
+- PXE provisioning
+- Git / GitHub
+- CI fundamentals
 
 ### Hardware
 
-- Server hardware
-- Storage systems
-- Power consumption & distribution
-- Hardware sizing
+- Enterprise server platforms
+- Storage hardware
+- Power distribution
+- Hardware troubleshooting
 - Component selection
-
----
 
 ## PROFESSIONAL EXPERIENCE
 
