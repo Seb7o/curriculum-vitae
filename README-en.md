@@ -8,7 +8,6 @@
 📞 +33 6 02 25 13 67 [sebastien@sevenos.fr](mailto:sebastien@sevenos.fr) - [www.sevenos.fr](https://www.sevenos.fr)  
 LinkedIn : [Sébastien Séveno](https://www.linkedin.com/in/seveno-sebastien/)  
 
----
 
 ## PROFILE
 
@@ -22,7 +21,6 @@ After several years in backend development, I deliberately chose to move closer 
 
 I particularly enjoy designing reliable platforms, automating repetitive work and continuously improving existing systems while keeping long-term maintainability in mind.
 
----
 
 ## SELF-HOSTED INFRASTRUCTURE (HOMELAB)
 <table border="0">
@@ -54,7 +52,6 @@ I particularly enjoy designing reliable platforms, automating repetitive work an
 </tr>
 </table>
 
----
 
 ## TECHNICAL SKILLS
 
@@ -158,7 +155,6 @@ Production environment – 300 users
 - Physical interventions on servers, switches, Wi-Fi infrastructure and cabling
 - Coordination with remote engineering teams
 
----
 
 ### IT Support Engineer — ArianeGroup
 
@@ -169,7 +165,6 @@ June 2018 – June 2019
 - CMDB management
 - Mobile Device Management (MDM)
 
----
 
 ### Backend Software Engineer
 
@@ -180,13 +175,11 @@ June 2019 – March 2023
 - Microservice architecture
 - Performance-oriented backend design
 
----
 
 ## EDUCATION
 
 BTS SIO — Network & Systems Administration
 
----
 
 ## LANGUAGES
 
@@ -194,7 +187,6 @@ French: Native
 
 English: Professional (C1)
 
----
 
 ## ADDITIONAL INFORMATION
 
