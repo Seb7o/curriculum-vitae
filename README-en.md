@@ -1,6 +1,6 @@
 # **Sébastien Séveno**
 
-** Infrastructure Engineer  **
+**Infrastructure Engineer**  
 Virtualization • Storage • Automation • Open Source
 
 Vernon, France • Remote • Willing to travel
