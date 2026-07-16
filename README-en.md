@@ -177,7 +177,7 @@ June 2019 – March 2023
 
 ## EDUCATION
 
-BTS SIO — Network & Systems Administration
+BTS SIO - Network & Systems Administration
 
 
 ## LANGUAGES
